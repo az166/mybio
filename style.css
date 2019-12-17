@@ -24,7 +24,7 @@ id (#) untuk teks.*/
 /*About me*/
 #d1{
 font-family: arial;
-background-image: url(bg/green.jpg);
+background-image: url(green.jpg);
 background-repeat: repeat;
 text-align:center;
 padding-left:5px;
@@ -49,7 +49,7 @@ margin-top:-15px;
 
 /*Hobbies*/
 #d2{
-background-image:url(bg/blue.jpg);
+background-image:url(blue.jpg);
 text-align:center;
 padding-top:5px;
 padding-bottom:5px;
@@ -65,7 +65,7 @@ margin-top:-15px;
 /*Education*/
 #d3{
 font-family: arial;
-background-image: url(bg/img1.jpg);
+background-image: url(img1.jpg);
 background-repeat: repeat;
 text-align:center;
 padding-left:5px;
@@ -83,7 +83,7 @@ padding-top:5px;
 /*Experience*/
 #d4{
 font-family: arial;
-background-image: url(bg/img2.jpg);
+background-image: url(img2.jpg);
 background-repeat: repeat;
 text-align:center;
 padding-left:5px;
@@ -98,7 +98,7 @@ color: white;
 /*Skills*/
 #d5{
 font-family: arial;
-background-image: url(bg/img3.jpg);
+background-image: url(img3.jpg);
 background-size:inherit;
 background-repeat: repeat;
 text-align:center;
@@ -114,7 +114,7 @@ color: white;
 /*Contact Us*/
 #d6{
 font-family: arial;
-background-image: url(bg/img4.jpg);
+background-image: url(img4.jpg);
 background-size:inherit;
 background-repeat: repeat;
 text-align:center;
