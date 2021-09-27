@@ -8,7 +8,7 @@ padding-right:5px;
 }
 
 
-.as{width:100px; text-align:left;}
+:root{.as{width:100px; text-align:left;}
 h1{
 font-weight: bold;
 font-family: arial, verdana;
@@ -18,7 +18,8 @@ text-align:center;
 background-color:black;
 color: white;
 }
-
+}
+  
 /*class (.) untuk gambar-gambar.
 id (#) untuk teks.*/
 
